@@ -20,3 +20,5 @@ kubectl expose deployment whale-deployment --port 8080 --target-port 80
 kubectl port-forward deployment/whale-deployment 8080:80
 ```
 
+![Image](demodockerwhale.png)
+
