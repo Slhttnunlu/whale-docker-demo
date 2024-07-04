@@ -2,9 +2,9 @@
 
 for Docker
 
-Build me: `docker build -t bengotch/whale-example .`
+Build me: `docker build -t whale-example .`
 
-Run me : `docker run -p8080:80 bengotch/whale-example`
+Run me : `docker run -p8080:80 whale-example`
 
 ```
 localhost:8080
@@ -12,7 +12,7 @@ localhost:8080
 
 for K8S
 
-Build me: `docker build -t bengotch/whale-example .`
+Build me: `docker build -t whale-example .`
 
 ```
 kubectl run whale-deployment --image whale-example 
