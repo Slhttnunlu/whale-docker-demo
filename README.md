@@ -1,4 +1,4 @@
-# docker-whale
+# docker-whale-demo-for-internship-students
 
 for Docker
 
